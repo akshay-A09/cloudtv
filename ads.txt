@@ -1,0 +1,9 @@
+Ads.txt
+Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
+Contextweb.com, 562842, RESELLER, 89ff185a4c4e857c
+Pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
+RTBHOUSE.COM, FqMvmwNH9TkzclzoqJFn, RESELLER
+freewheel.tv, 1581157, RESELLER
+freewheel.tv, 1581210, RESELLER
+google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
+Xapads.com, 179780, DIRECT
